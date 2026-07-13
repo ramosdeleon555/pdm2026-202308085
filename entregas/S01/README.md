@@ -1,1 +1,1 @@
-![Mi imagen](S01.png)
+![Mi imagen](S01.PNG)
