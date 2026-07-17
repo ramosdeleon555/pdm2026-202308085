@@ -10,3 +10,25 @@
 **Curva Emocional**
 
 ![Imagen de curva emocional](curva_emocional.png)
+
+# Dolores anclados a evidencia
+
+- **[CITA]** *"Si no tengo datos móviles, la aplicación deja de funcionar bien."*  
+  - Existe una diferencia importante en su experiencia al usar la aplicación cuando tiene acceso a internet y cuando no.
+
+- **[CITA]** *"La versión gratuita tiene muchos anuncios y eso interrumpe bastante."*  
+  - No le gustan las interrupciones ocasionadas por la publicidad.
+
+- **[CITA]** *"Muchas veces quiero escuchar música mientras viajo y no puedo hacerlo por falta de internet."*  
+  - Su principal limitación es la dependencia de una conexión a internet.
+
+- **[INF]** El costo de una suscripción hace que continúe utilizando opciones con limitaciones.  
+  - Se resiste a pagar suscripciones o realizar gastos relacionados con la música.
+
+---
+
+# El valle más profundo
+
+La fase donde más dificultades experimenta es la **F4 (Consideración)**. Aunque tiene la intención de adquirir una suscripción musical, recuerda que debe priorizar otros gastos, como el transporte y la alimentación, por lo que la música no representa una prioridad en este momento.
+
+Además, la **F2 (Solución)** también es un punto importante, ya que Leslie busca alternativas que le permitan acceder a su música de una manera más práctica, sin depender constantemente del internet y sin tener que pagar una suscripción.
