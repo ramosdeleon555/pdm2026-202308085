@@ -1,15 +1,13 @@
-# Definición del problema
+# Reflexión
 
-## HMW (How Might We?)
+## Lo que yo asumía al inicio
 
-> **¿Cómo podríamos hacer para que Leslie pueda escuchar su música rápidamente y sin gastar un centavo?**
+Pensaba que Leslie simplemente no quería gastar dinero, por lo que no estaba dispuesta a pagar por datos móviles ni por una suscripción a una plataforma de música.
 
-## Cita que la respalda
+## Lo que el mapa me desmintió
 
-> *"Muchas veces quiero escuchar música mientras viajo y no puedo hacerlo por falta de internet. Si pudiera descargar algunas canciones desde la versión gratuita, la usaría mucho más."* — **[CITA, S2]**
+El mapa de empatía mostró que el problema no es únicamente el dinero. Leslie disfruta descubrir nuevas canciones y, conforme las conoce, prefiere guardarlas o descargarlas en su teléfono para poder escucharlas después sin necesidad de una conexión a internet. Por ello, no considera indispensable contratar una suscripción musical.
 
-## ¿Por qué vale la pena resolverla?
+## ¿Dónde está la mayor oportunidad?
 
-Leslie se siente cada vez más desanimada y cansada de tener que obtener sus canciones descargándolas desde su computadora para luego transferirlas a su dispositivo. Además, no considera una prioridad gastar dinero en datos móviles o en una suscripción musical.
-
-Esta situación no solo afecta a Leslie, sino también a muchas personas que buscan una forma práctica de escuchar música sin depender de internet y sin asumir un costo adicional. Resolver este problema podría beneficiar a usuarios con necesidades y limitaciones similares.
+La mayor oportunidad se encuentra en las fases **F2 (Solución)** y **F3 (Escuchar la música)**. En estas etapas, Leslie busca alternativas que le permitan obtener nuevas canciones de una forma sencilla y escucharlas en sus tiempos libres para distraerse y hacer más agradables sus actividades diarias. Mejorar esta parte de la experiencia podría reducir su dependencia de procesos manuales, como descargar y transferir música desde la computadora, y facilitar el acceso a su contenido favorito.
