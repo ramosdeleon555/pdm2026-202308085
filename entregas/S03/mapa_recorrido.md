@@ -1,4 +1,4 @@
-**Tabla en Markdown**
+# Tabla en Markdown
 
 |  | **F1 - Anhelo** | **F2 - Solución** | **F3 - Escuchar la música** | **F4 - Consideración** |
 |---|---|---|---|---|
@@ -7,7 +7,7 @@
 | **Emoción** | Deseo | Satisfecha | Satisfecha | Decepción |
 | **Puntos de dolor** | N/A | Tener como única alternativa descargar música en su computadora. Por el momento funciona, pero quizás más adelante ya no. | Conformarse con la música que tiene descargada, aunque en algún momento le llegue a aburrir. | Recordarse que pagar una suscripción musical aún no es prioridad y que todavía puede mantenerse con lo que tiene. |
 
-**Curva Emocional**
+# Curva Emocional
 
 ![Imagen de curva emocional](curva_emocional.png)
 
