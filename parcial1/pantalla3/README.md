@@ -1,4 +1,4 @@
-![Captura de pantalla Flutter](captura parcial1.png)
+![Captura de pantalla Flutter](parcial1img.png)
 
 # pantalla3
 
