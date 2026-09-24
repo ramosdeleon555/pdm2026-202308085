@@ -6,8 +6,8 @@ el equipo que va ganando y botón de reinicio.
 
 ## Capturas de la aplicación
 
-- Equipo ganando: `![Equipo ganando](Captura1.PNG)`
-- Empate: `![Empate](Captura2.PNG)`
+- Equipo ganando: ![Equipo ganando](Captura1.PNG)
+- Empate: ![Empate](Captura2.PNG)
 
 ## Pregunta: ¿Qué hace `setState` cuando presiono un botón y qué ocurriría si cambio los puntos sin llamarlo?
 
